@@ -9,7 +9,7 @@
    <img width="370" src="https://github-readme-stats.vercel.app/api?username=devlmach&show_icons=true&theme=merko" />
 </div>
 
-## Tecnologias que aprendi no decorrer dos meus estudos.
+## Tecnologias que estou aprendendo no decorrer dos meus estudos.
 
 <div>
    <img src="https://skillicons.dev/icons?i=java,python,postgresql,javascript,html,css"/>
