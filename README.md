@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou o Rafael Luna, sou estudante de Ciência da Computação, migrei da área de Administração onde já tenho conhecimento do Pacote Office, em especial Excel, onde conheço VBA e MACRO. 🤙🏼  
+### Olá! Eu sou o Rafael Luna, sou estudante de Ciência da Computação. 🤙🏼  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-luna-mach)
 
