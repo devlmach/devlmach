@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou o Rafael Luna, sou estudante de Ciência da Computação. 🤙🏼  
+### Olá! Eu sou o Rafael Machiavelli. 🤙🏼  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-luna-mach)
 
