@@ -4,9 +4,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-luna-mach)
 
-
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlmach&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlmach)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+   <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlmach&layout=compact&theme=merko" /> 
+   <img width="370" src="https://github-readme-stats.vercel.app/api?username=devlmach&show_icons=true&theme=merko" />
+</div>
 
 ## Tecnologias que aprendi no decorrer dos meus estudos.
 
