@@ -10,10 +10,10 @@
 ## Tecnologias que estou aprendendo no decorrer dos meus estudos.
 
 <div>
-   <img src="https://skillicons.dev/icons?i=java,spring,python,flask,postgresql,javascript,html,css"/>
+   <img src="https://skillicons.dev/icons?i=java,spring,python,postgresql,javascript,html,css"/>
    <ul>
       <li> Java </li>
-      <li> Spring Boot / Flask </li> 
+      <li> Spring Boot </li> 
       <li> Python </li>
       <li> PostgreSQL </li>
       <li> Javascript </li>
