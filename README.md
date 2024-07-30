@@ -15,7 +15,7 @@
    <img src="https://skillicons.dev/icons?i=java,spring,python,flask,postgresql,javascript,html,css"/>
    <ul>
       <li> Java </li>
-      <li> Spring Boot / flask </li> 
+      <li> Spring Boot / Flask </li> 
       <li> Python </li>
       <li> PostgreSQL </li>
       <li> Javascript </li>
