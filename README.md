@@ -12,7 +12,7 @@
 
 machiavelli.rafa@gmail.com
 
-linkedin.com/in/rafael-machiavelli
+www.linkedin.com/in/rafael-machiavelli
 
 <hr>
 
