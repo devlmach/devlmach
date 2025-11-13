@@ -3,7 +3,7 @@
 ## Tecnologias que estou aprendendo
 
 <div>
-   <img src="https://skillicons.dev/icons?i=java,spring,python,postgresql,javascript,html,css,ai"/>
+   <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,postgresql,javascript,html,css"/>
 </div>
 
 <hr>
